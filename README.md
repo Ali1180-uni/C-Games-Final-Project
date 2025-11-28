@@ -239,7 +239,7 @@ This project demonstrates proficiency in:
 
 - **Ali Tahir**: Primary developer and project creator
 - Course: C++ Programming (1st Semester)
-- Institution: NTU (Nanyang Technological University)
+- Institution: NTU (National Textile University)
 
 ## 📄 License
 
